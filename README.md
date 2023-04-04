@@ -1,0 +1,2 @@
+# Samplegit
+trying out git 
